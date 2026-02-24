@@ -30,7 +30,7 @@ This issue is particularly prominent in Korean due to its complex word conjugati
 The hyperparameter tuning and dataset optimization process across 23 experimental rounds has been fully documented. 
 **(Click the image below to view the log PDF.)**
 
-[![Experiment Log](https://github.com/user-attachments/assets/cfac03df-c1fc-44d1-9fc4-10192c116e8e)](./docs/develop_log.pdf)
+[![Experiment Log](https://github.com/user-attachments/assets/8325ad70-fd55-4f18-a1ac-056ba443a0bf)](./docs/develop_log.pdf)
 
 <br/>
 
